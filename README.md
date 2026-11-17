@@ -31,7 +31,7 @@ Exemplo de corpo para `POST` e `PUT`:
 | Parâmetro                        | Valor            |
 |----------------------------------|------------------|
 | Limite do cache                  | 5 itens          |
-| TTL                              | `<preencher>`    |
+| TTL                              | 60 s    |
 | Latência simulada sem cache      | ~2 s             |
 
 ## Como reproduzir
